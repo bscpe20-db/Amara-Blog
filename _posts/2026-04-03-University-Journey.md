@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: My Journey
 categories: [Journey, University, ComputerEngineering]
 tags: [student-life, programming, database, machine-learning, university-experience]
