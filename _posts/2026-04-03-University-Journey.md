@@ -11,7 +11,7 @@ tags: [student-life, programming, database, machine-learning, university-experie
 When I started my university journey, I had many expectations about university life. However, the reality was a little different. The environment here is mostly focused on studies. Students mainly come here to attend lectures and complete their work. Even though the campus is small and there are not many departments, the education system is good and teachers are very cooperative. My first and second semesters have been full of learning, challenges, and new experiences. 
 
 ### First Day at University 
-![A](/assets/img/posts/A.jpg)
+![A](/assets/A.jpg)
 
 My first day at university was exciting and a little confusing. Everything was new including the environment, teachers, and classmates. Slowly I started understanding how the university system works and became more comfortable attending classes. 
 
@@ -19,7 +19,7 @@ My first day at university was exciting and a little confusing. Everything was n
 In my first semester I studied Programming Fundamentals. This course introduced me to programming and coding concepts. Learning variables, loops, conditions, and functions helped me understand how computers solve problems step by step. 
 
 ### PF Project Exhibition 
-![B](/assets/img/posts/B.jpg)
+![B](/assets/B.jpg)
 
 During the Programming Fundamentals course we participated in a project exhibition. Our project was about predicting heart attack risk using Machine Learning. We trained a model using data and explained how different factors can affect heart attack risk. 
 
