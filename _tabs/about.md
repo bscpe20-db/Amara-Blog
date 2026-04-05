@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Hello! My name is Fatima. I am a second-semester student of Computer Engineering at UET Lahore, Faisalabad Campus.
+Hello! My name is Amara Fatima. I am a second-semester student of Computer Engineering at UET Lahore, Faisalabad Campus.
 
 I have a deep interest in computer systems and emerging technologies. This is my personal portfolio, where I share my academic journey and my projects, particularly my work in Database Systems.
 
