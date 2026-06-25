@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey"
-date: 2026-06-01
+date: 2026-04-03
 categories: [Campus Life]
 tags: [github, portfolio, student-journey]
 ---
