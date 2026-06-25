@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Learning Server Setup and File Sharing in Database Lab"
+title: "Server Setup and File Sharing"
 date: 2026-06-12
-categories: [Database Systems, Server Setup, Lab Work]
+categories: [Semester 2]
+tags: [database-systems, networks]
 ---
+
 One useful activity in our Database Systems lab was learning how servers are created and used. Before this, I only knew the word “server” as a technical term. Through practical work, I understood that a server can help users organize, store, access, and share files.
 We learned how to set up a server and use it for sharing work. Through the server, we shared lab manuals, assignments, and files provided by our teacher. This made academic work easier to manage because students could access relevant files from one place instead of searching for them separately.
 This activity showed me that technical systems are useful for teamwork. A server can connect users and make file management more organized. It also helped me understand that database and server concepts are connected with practical work in many organizations.
