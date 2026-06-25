@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My Journey
-categories: [Journey, University, ComputerEngineering]
-tags: [student-life, programming, database, machine-learning, university-experience]
+categories: [Campus Life]
+tags: [github, portfolio, student-journey]
 ---
 
 # My Journey as a Computer Engineering Student 
