@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "The Busiest Week of My Semester and a Lesson in Time Management"
+title: "Time Management Lesson from Busy Week"
 date: 2026-06-15
-categories: [University Life, Time Management, Student Journey]
+categories: [Campus Life]
+tags: [time-management, student-life]
 ---
+
 The last week before exams was one of the busiest and most challenging parts of my semester. At that time, we had several pending assignments along with quizzes of Digital Logic Design, Database Systems, and Object-Oriented Programming. Every day felt rushed because we had to reach university early, attend lectures, complete lab work, submit assignments, and prepare for quizzes at the same time. Sometimes we were so busy that we hardly had enough time to eat properly or sit peacefully with our classmates.
 
 The workload felt especially difficult because I had not prepared everything earlier. When different deadlines came together, it became hard to decide which task should be completed first. I tried to manage my work, but the pressure increased because every subject required separate attention. Database Systems needed practice with SQL queries and lab tasks, while other courses had their own assignments and quizzes. This experience made me understand that university work cannot be handled properly only at the end of the semester.
